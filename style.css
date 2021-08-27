@@ -196,10 +196,6 @@ h2 {
   		font-size: 24px;
   	}
 
-  	h2 {
-  		padding: 
-  	}
-
 	.characters-container {
 		grid-template-columns: repeat(1, 1fr);
 	}
